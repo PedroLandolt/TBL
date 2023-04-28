@@ -1,4 +1,4 @@
-# project-l07gr01
+# The Binding of Lendea
 project-l07gr01 created by GitHub Classroom
 
 We decided to create an original game, based on The Binding of Isaac, where the user would control the hero, “Pão de Forma”, and aim to kill enemies by shooting them.
