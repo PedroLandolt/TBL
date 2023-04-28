@@ -1,5 +1,5 @@
 # The Binding of Lendea
-project-l07gr01 created by GitHub Classroom
+(project-l07gr01)
 
 We decided to create an original game, based on The Binding of Isaac, where the user would control the hero, “Pão de Forma”, and aim to kill enemies by shooting them.
 To clear the levels, Pão de Forma must kill every enemy on the map without losing all of his HP. When that happens, a door will open, allowing him to progress.
